@@ -1,6 +1,7 @@
 {
   "name": "ngx-charts",
-  "version": "0.0.0",
+  "version": "14.0.0",
+  "description": "this is a fork of @swimlane/ngx-charts, created just for the purpose of upgrading to Angular 14",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
