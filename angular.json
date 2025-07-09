@@ -33,7 +33,8 @@
               "codemirror",
               "ajv",
               "mousetrap",
-              "moment-timezone"
+              "moment-timezone",
+              "rfdc"
             ],
             "vendorChunk": true,
             "extractLicenses": false,
